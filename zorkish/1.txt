@@ -1,0 +1,27 @@
+Treadmill:very high one
+Blacksmith:an old, dusty blacksmith
+Battlefield:bloody abandoned battlefield
+Hall:many people are gathering here
+#
+Hall:Battlefield:N
+Hall:Blacksmith:E
+Hall:Treadmill:SE
+Treadmill:Blacksmith:N
+Blacksmith:Treadmill:S
+Battlefield:Hall:S
+Blacksmith:Hall:W
+Treadmill:Hall:NW
+-
+sword:very sharp and powerful:Battlefield
+shield:very heavy and unbreakable:Battlefield
+bike:still very new seemingly:Hall
+bag:very big:Hall
+candy:sweet but not good for your health:bag
+cicada:very small but loud:Hall
++
+dagger:pointy and curved
+rope:long and stretchy
+compass:reliable tool
+-Attribute
+H:100:cicada
+M:100:cicada

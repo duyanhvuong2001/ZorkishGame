@@ -1,0 +1,3 @@
+C:\Users\Duy Anh\Desktop\zorkish\Debug\zorkish.exe
+C:\Users\Duy Anh\Desktop\zorkish\Debug\zorkish.pdb
+E:\Swinburne\COS30031 - Games Programming\zorkish\Debug\zorkish.exe
